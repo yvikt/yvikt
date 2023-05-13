@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yvikt
 - 👀 I’m interested in programming
 - 🌱 I’m a PHP developer 
-- 💞️ I’m looking to collaborate on learning progect
+- 💞️ _
 - 📫 How to reach me https://t.me/yvikt
 
 <!---
